@@ -29,7 +29,7 @@ This is a cheatsheat for the [Block Kit API](https://api.slack.com/block-kit), g
 
 ### Components
 
-- 10 `Options` in a Checkbox Component
+- 10 `Options` in the `options` field of a Checkbox Component
 
 ### Other
 
