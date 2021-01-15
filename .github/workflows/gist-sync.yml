@@ -1,0 +1,17 @@
+on: [push]
+
+jobs:
+  gist-sync:
+    name: gist-sync
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: popsiclestick/gist-sync-action@v1.2.0
+        id: sync
+        with:
+          auth: ${{ secrets.GIST_TOKEN }}
+          gist_url: https://gist.github.com/marissamarym/e8bc9eae4b37aaa2368d4a2d3d6fe2d2
+          gist_title: Slack Block Kit Cheatsheet
+          gist_description: Cheatsheet for the Slack Block Kit Framework
+          github_file: README.md
