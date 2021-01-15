@@ -1,5 +1,5 @@
-# Slack BlockKit Cheatsheet
-This is a cheatsheat for the [BlockKit API](https://api.slack.com/block-kit), great for referencing when wireframing out Slack interactions.
+# Slack Block Kit Cheatsheet
+This is a cheatsheat for the [Block Kit API](https://api.slack.com/block-kit), great for referencing when wireframing out Slack interactions.
 
 ## Values to know
 
