@@ -1,7 +1,7 @@
 # Slack Block Kit Cheatsheet
 This is a cheatsheat for the [Block Kit API](https://api.slack.com/block-kit), great for referencing when wireframing out Slack interactions.
 
-[_See the live syncing repo_ 🔁](https://github.com/instantish/slack-blockkit-cheatsheet).
+[_See the live syncing repo_ 🔁](https://github.com/instantish/slack-blockkit-cheatsheet)
 
 ## Values to know
 
