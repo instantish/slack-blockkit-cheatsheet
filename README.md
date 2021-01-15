@@ -1,8 +1,6 @@
 # Slack BlockKit Cheatsheet
 This is a cheatsheat for the [BlockKit API](https://api.slack.com/block-kit), great for referencing when wireframing out Slack interactions.
 
-_Looking to create blocks quickly? Check out our repo [Blockus](https://github.com/instantish/blokus)._
-
 ## Values to know
 
 ### Surfaces
